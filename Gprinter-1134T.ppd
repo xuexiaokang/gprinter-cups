@@ -50,7 +50,7 @@
 *PageSize w100mmh150mm/100mm x 150mm: "<</PageSize[283 425]/ImagingBBox null>>setpagedevice"
 *PageSize w106mmh150mm/106mm x 150mm: "<</PageSize[300 425]/ImagingBBox null>>setpagedevice"
 *PageSize w100mmh180mm/100mm x 180mm (STO Label): "<</PageSize[283 510]/ImagingBBox null>>setpagedevice"
-*PageSize w106mmh33mm/106mm x 33mm: "<</PageSize[300 94]/ImagingBBox null>>setpagedevice"
+*PageSize w104mmh30mm/104mm x 30mm: "<</PageSize[295 85]/ImagingBBox null>>setpagedevice"
 *CloseUI: *PageSize
 
 *OpenUI *PageRegion/Page Size: PickOne
@@ -67,7 +67,7 @@
 *PageRegion w100mmh150mm/100mm x 150mm: "<</PageSize[283 425]/ImagingBBox null>>setpagedevice"
 *PageRegion w106mmh150mm/106mm x 150mm: "<</PageSize[300 425]/ImagingBBox null>>setpagedevice"
 *PageRegion w100mmh180mm/100mm x 180mm (STO Label): "<</PageSize[283 510]/ImagingBBox null>>setpagedevice"
-*PageRegion w106mmh33mm/106mm x 33mm: "<</PageSize[300 94]/ImagingBBox null>>setpagedevice"
+*PageRegion w104mmh30mm/104mm x 30mm: "<</PageSize[295 85]/ImagingBBox null>>setpagedevice"
 *CloseUI: *PageRegion
 
 *ImageableArea w10mmh10mm/10mm x 10mm: "0 0 28 28"
@@ -81,7 +81,7 @@
 *ImageableArea w100mmh150mm/100mm x 150mm: "0 0 283 425"
 *ImageableArea w106mmh150mm/106mm x 150mm: "0 0 300 425"
 *ImageableArea w100mmh180mm/100mm x 180mm (STO Label): "0 0 283 510"
-*ImageableArea w106mmh33mm/106mm x 33mm: "0 0 300 94"
+*ImageableArea w104mmh30mm/104mm x 30mm: "0 0 295 85"
 
 *PaperDimension w10mmh10mm/10mm x 10mm: "28 28"
 *PaperDimension w30mmh20mm/30mm x 20mm: "85 57"
@@ -94,7 +94,7 @@
 *PaperDimension w100mmh150mm/100mm x 150mm: "283 425"
 *PaperDimension w106mmh150mm/106mm x 150mm: "300 425"
 *PaperDimension w100mmh180mm/100mm x 180mm (STO Label): "283 510"
-*PaperDimension w106mmh33mm/106mm x 33mm: "300 94"
+*PaperDimension w104mmh30mm/104mm x 30mm: "295 85"
 
 *OpenUI *Collate/Collate: Boolean
 *OrderDependency: 200 AnySetup *Collate
